@@ -1,4 +1,4 @@
-#1.2 Write a program that determines whether a year entered by the user is a leap year or not using if- elif - else statement
+yo#1.2 Write a program that determines whether a year entered by the user is a leap year or not using if- elif - else statement
 
 
 
